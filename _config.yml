@@ -1,15 +1,14 @@
 # Site settings
-title: Creative Theme
-email: theme@viennalabs.com
+title: Crowder
+email: contact@crowderapp.com
 description: > # this means to ignore newlines until "baseurl:"
- Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
- The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project!
+ Crowder’s where you start and find nearby crowds, see what the crowds are doing, see who’s in those crowds, and how many people are in them at the moment
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "crowderapp.com" # the base hostname & protocol for your site
 
-twitter_username: volnyio
-github_username:  volny
+twitter_username: crowder_tweets
+github_username:  eorroe
 
 # Build settings
 markdown: kramdown
