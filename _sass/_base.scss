@@ -261,10 +261,8 @@ header {
             }
         }
     }
-    &:hover {
-        .portfolio-box-caption {
-            opacity: 1;
-        }
+    .portfolio-box-caption {
+        opacity: 1;
     }
     @media (min-width: 768px) {
         .portfolio-box-caption {
